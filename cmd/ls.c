@@ -1,7 +1,7 @@
 #include "../includes/cmd.h"
 #include "../includes/shell.h"
 #include "../includes/colors.h"
-
+#include <dirent.h>
 
 /*
 Implementation of the ls command: print in the terminal the content of the current directory

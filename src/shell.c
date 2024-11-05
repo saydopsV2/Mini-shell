@@ -85,7 +85,7 @@ void shell_execute_line(struct Shell *s){
             execute_cmd_ls(s);
 
 
-        else if (strcmp(command, "kisuisje") == 0)
+        else if (strcmp(command, "qui-suis-je") == 0)
             system("whoami");
         else if (strcmp(command, "clear") == 0) 
             system("clear");  
