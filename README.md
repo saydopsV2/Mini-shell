@@ -17,7 +17,7 @@ Après avoir lancé l'exécutable vous arrivez dans le shell. Voici la liste des
 - cd: parcourir vos fichiers
 - ls: afficher les fichiers/dossiers du répertoire
 - cat: prend en paramètre un fichier et l'affiche
-- kisuisje: un whoami en français
+- qui-suis-je: un whoami en français
 - clear: effacer le terminal
 - exit: sortir du shell et des sous-shell
 
